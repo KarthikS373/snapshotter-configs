@@ -1,0 +1,13 @@
+{
+  "config": [
+    {
+      "project_type": "fanatix_royalities_processor",
+      "preload_tasks": [],
+      "projects": ["0x6042e48C73D6307dA8e1750d6892071A712Db855"],
+      "processor": {
+        "module": "snapshotter.modules.computes.fanatix_royalities_processor",
+        "class_name": "FanatixRoyalities"
+      }
+    }
+  ]
+}
